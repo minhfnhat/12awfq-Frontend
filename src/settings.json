@@ -1,0 +1,41 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink"
+    },
+    {
+      "id": "StatsSimple"
+    },
+    {
+      "id": "StatsSplitWithImage"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "HeroSimpleCentered"
+    },
+    {
+      "id": "TestimonialsGrid"
+    },
+    {
+      "id": "StatsSimpleGrid"
+    },
+    {
+      "id": "CtaSimpleCentered"
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText"
+    },
+    {
+      "id": "NewsletterCenteredCard"
+    },
+    {
+      "id": "FooterSimpleCentered"
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash Your Feline Friend's Imagination with Pot",
+  "subtitle": "Elevate Your Cat's Playtime Experience with Our Interactive Toy"
+}
